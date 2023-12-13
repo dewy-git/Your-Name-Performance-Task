@@ -1,7 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702499397
+::res://::1702500732
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401875::1702499397::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702401875::1702499397::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401875::1702499397::1::::<><>::
 icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1702499397::1::::<><>::
+Player.gd::GDScript::-1::1702500693::0::1::::<>Area2D<>::
 README.md::TextFile::-1::1702499286::0::1::::<><>::
+::res://scenes/::1702500693
+enemy.tscn::PackedScene::8930062524856337613::1702500570::0::1::::<><>::uid://clwpo83yorvtm::::res://enemy.png
+player.tscn::PackedScene::6261801158683517001::1702500570::0::1::::<><>::res://Player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
+world.tscn::PackedScene::6101598740805565783::1702500693::0::1::::<><>::uid://cvhi7kptdhcyj::::res://scenes/player.tscn<>uid://d0h13b2gav4m0::::res://scenes/enemy.tscn
